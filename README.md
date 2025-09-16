@@ -1,2 +1,3 @@
-# android_device_samsung_gts10pwifi
+### android_device_samsung_gts10pwifi
 
+# ***deprecated***
