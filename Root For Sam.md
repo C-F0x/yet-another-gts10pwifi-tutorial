@@ -3,6 +3,7 @@
 copy AP.tar to any android device, use magisk to patch it. than flash it in Odin v3 at AP Slot
 ```
 [KernelSU](https://github.com/tiann/KernelSU)/[APatch](https://github.com/bmax121/APatch)
+It's General for all forks
 ```BOOT.IMG
 METHOD A
 
@@ -11,7 +12,9 @@ Flash the corresponding ksu GKI2 boot.img,and install the BluetoothLibraryPatche
 
 METHOD B
 
-Flash the Specfic Built Kernel(Secure Policy Removed) to use LKM Mode. Or original KSU/MKSU/SSU to use GKI Mode
+Flash the Specfic Built Kernel(Secure Policy Removed) to use LKM Mode.
+Flash Boot built with KernelSU to use GKI Mode
+Flash Patched Boot to Use APatch
 ```
 Related items
 
