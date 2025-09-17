@@ -9,3 +9,5 @@ total list:
 [How To Root](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/Root%20For%20Sam.md)
 
 [How To Update A-slot Devices](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/Update%20A-slot%20device.md)
+
+[Module 4 Samsung](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/Modules%20For%20Samsung.md)
