@@ -25,6 +25,7 @@ Once device reboot, boot it into Odin Mode again to flash any img on ur demand.
 
 # DON'T BOOT INTO SYSTEM DIRECTLY OR YOU MAY LOST UR DATA
 
-## if u have modified the data partition, e.g multidisabler, modify it again. 
+## if u have modified the partition, e.g multidisabler, modify it again. 
 
+Systemless Module is NOT contained
 
