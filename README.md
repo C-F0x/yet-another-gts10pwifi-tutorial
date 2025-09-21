@@ -11,3 +11,5 @@ total list:
 [How To Update A-slot Devices](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/Update%20A-slot%20device.md)
 
 [Module 4 Samsung](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/Modules%20For%20Samsung.md)
+
+[KernelSU On TabS10 Series](https://github.com/C-F0x/yet-another-gts10pwifi-tutorial/blob/master/KernelSU%20Tab%20S10%20series.md)
